@@ -6,7 +6,7 @@ Before your computer can communicate with your Canon printer, you need the corre
 
 Many users struggle with finding the right driver, dealing with installation errors, or fixing a printer that constantly shows “offline status”. This guide walks you through downloading, installing, and troubleshooting Canon drivers on Windows 11, Windows 10, and macOS.
 
-For a complete, step‑by‑step walkthrough that covers driver selection based on your specific operating system, refer to this [ij start canon setup](https://printersolved.com/ij-start-canon-setup/) resource.
+For a complete, step‑by‑step walkthrough that covers driver selection based on your specific operating system, refer to this [canon printer setup US and Canada](https://printersolved.com/ij-start-canon-setup/) resource.
 
 ---
 
@@ -53,7 +53,7 @@ Look for the **Full Driver & Software Package** or **MP Drivers** – these incl
 
 ### Step 6: Install the Driver
 
-Once downloaded, locate the file (usually in your Downloads folder) and double‑click it. Follow the on‑screen prompts. If you are unsure about any installation option, this [https://ij.start.canon setup](https://printersolved.com/ij-start-canon-setup/) guide explains each step with clear instructions for both Windows and macOS.
+Once downloaded, locate the file (usually in your Downloads folder) and double‑click it. Follow the on‑screen prompts. If you are unsure about any installation option, this [ij.start.canon guide](https://printersolved.com/ij-start-canon-setup/) explains each step with clear instructions for both Windows and macOS.
 
 ---
 
@@ -124,9 +124,7 @@ If you are having persistent driver problems, remove the old driver first:
 | “Printer not detected during install” | Firewall blocking discovery | Temporarily disable Windows Firewall or macOS Local Network permission |
 | “Installation stuck at 90%” | USB cable loose or wrong port | Reconnect USB cable or restart both computer and printer |
 | “Driver is unsigned” (Windows) | Old driver on new Windows | Reboot into “Disable driver signature enforcement” mode, or download a newer driver |
-| “Driver already installed but printer offline” | IP address changed | Add printer again using TCP/IP port with static IP (detailed in the main setup guide) |
-
-If none of these resolve your issue, the [ij start canon setup](https://printersolved.com/ij-start-canon-setup/) resource provides a full driver selection table and screenshots for every Windows and macOS version.
+| “Driver already installed but printer offline” | IP address changed | Add printer again using TCP/IP port with static IP |
 
 ---
 
@@ -142,4 +140,4 @@ If none of these resolve your issue, the [ij start canon setup](https://printers
 
 ---
 
-Most Canon driver issues are resolved by downloading the correct full driver package and temporarily disabling security software during installation. Once the driver is installed correctly, your printer should be ready to print without offline errors. For a complete visual walkthrough covering driver installation on both operating systems, refer to the detailed guide linked above.
+Most Canon driver issues are resolved by downloading the correct full driver package and temporarily disabling security software during installation. Once the driver is installed correctly, your printer should be ready to print without offline errors.
